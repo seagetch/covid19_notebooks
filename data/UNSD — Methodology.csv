@@ -64,7 +64,7 @@
 001,World,019,Americas,419,Latin America and the Caribbean,029,Caribbean,Aruba,533,AW,ABW,,,x,Developing
 001,World,019,Americas,419,Latin America and the Caribbean,029,Caribbean,Bahamas,044,BS,BHS,,,x,Developing
 001,World,019,Americas,419,Latin America and the Caribbean,029,Caribbean,Barbados,052,BB,BRB,,,x,Developing
-001,World,019,Americas,419,Latin America and the Caribbean,029,Caribbean,Bonaire, Sint Eustatius and Saba,535,BQ,BES,,,x,Developing
+001,World,019,Americas,419,Latin America and the Caribbean,029,Caribbean,"Bonaire, Sint Eustatius and Saba",535,BQ,BES,,,x,Developing
 001,World,019,Americas,419,Latin America and the Caribbean,029,Caribbean,British Virgin Islands,092,VG,VGB,,,x,Developing
 001,World,019,Americas,419,Latin America and the Caribbean,029,Caribbean,Cayman Islands,136,KY,CYM,,,,Developing
 001,World,019,Americas,419,Latin America and the Caribbean,029,Caribbean,Cuba,192,CU,CUB,,,x,Developing
@@ -123,8 +123,8 @@
 001,World,142,Asia,143,Central Asia,,,Turkmenistan,795,TM,TKM,,x,,Developing
 001,World,142,Asia,143,Central Asia,,,Uzbekistan,860,UZ,UZB,,x,,Developing
 001,World,142,Asia,030,Eastern Asia,,,China,156,CN,CHN,,,,Developing
-001,World,142,Asia,030,Eastern Asia,,,China, Hong Kong Special Administrative Region,344,HK,HKG,,,,Developing
-001,World,142,Asia,030,Eastern Asia,,,China, Macao Special Administrative Region,446,MO,MAC,,,,Developing
+001,World,142,Asia,030,Eastern Asia,,,"China, Hong Kong Special Administrative Region",344,HK,HKG,,,,Developing
+001,World,142,Asia,030,Eastern Asia,,,"China, Macao Special Administrative Region",446,MO,MAC,,,,Developing
 001,World,142,Asia,030,Eastern Asia,,,Democratic People's Republic of Korea,408,KP,PRK,,,,Developing
 001,World,142,Asia,030,Eastern Asia,,,Japan,392,JP,JPN,,,,Developed
 001,World,142,Asia,030,Eastern Asia,,,Mongolia,496,MN,MNG,,x,,Developing
